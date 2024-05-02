@@ -2,7 +2,7 @@
 https://github.com/alfindooktavian/website-sekolah.git
 
 
-# Nama Aplikasi
+# International School
 > Deskripsi Aplikasi.
 
 ## feature

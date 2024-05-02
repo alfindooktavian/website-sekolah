@@ -5,7 +5,7 @@ https://github.com/alfindooktavian/website-sekolah.git
 # Nama Aplikasi
 > Deskripsi Aplikasi.
 
-## featur
+## feature
 Sprint 1
 * ....
 * 

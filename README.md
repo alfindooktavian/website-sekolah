@@ -12,12 +12,13 @@ Sprint 1
 
 ## Keterangan Folder
  Folder aplikasi : 
+ *
  
  Desain :
  * aset pengembangan web
    
  Dokumentasi : 
-
+*
 
 ### Requirements
 
@@ -25,6 +26,7 @@ Sprint 1
 * php 7+
 * composer 1.9+
 * yarn 1.13+ _or npm 6.4+_
+* laravel 
 
 ### Installation
 > cara instalasi 
